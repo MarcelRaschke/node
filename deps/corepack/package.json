@@ -52,7 +52,7 @@
     "typescript": "^4.3.2",
     "v8-compile-cache": "^2.3.0",
     "webpack": "^5.38.1",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^4.0.0",
     "which": "^2.0.2"
   },
   "scripts": {
